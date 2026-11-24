@@ -1,0 +1,28 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# IDE files
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output and logs
+*.pdb
+*.opendb
+*.VC.db
+*.log
+
+# macOS / Linux noise
+.DS_Store
+.directory
+*.swp
+*.swo

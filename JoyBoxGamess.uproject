@@ -1,0 +1,13 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "",
+  "Category": "Games",
+  "Description": "A source-first Unreal Engine starter for an Indian city and village open-world game.",
+  "Modules": [
+    {
+      "Name": "JoyBoxGamess",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
